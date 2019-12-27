@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/users/yangyong01/workspace/codes/xgb_jar'
+let g:netrw_dirhist_2='/home/users/yangyong01/workspace/codes/xgb_jar/com'
+let g:netrw_dirhist_3='/home/users/yangyong01/workspace/codes/xgb_jar/com/rong360'
+let g:netrw_dirhist_4='/home/users/yangyong01/workspace/codes/xgb_jar/com/rong360/tj'
+let g:netrw_dirhist_5='/home/users/yangyong01/workspace/codes/xgb_jar/com/rong360/tj/spark'
