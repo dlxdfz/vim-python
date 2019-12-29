@@ -14,5 +14,8 @@ Plug 'Chiel92/vim-autoformat'
 Plug 'davidhalter/jedi-vim'
 
 Plug 'marijnh/tern_for_vim'
+
 Plug 'pangloss/vim-javascript'
+
+Plug 'Yggdroot/indentLine'
 call plug#end()
